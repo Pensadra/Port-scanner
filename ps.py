@@ -2,7 +2,7 @@ from socket import *
 from rich.console import Console
 
 console = Console()
-console.rule("[bold red]Port scaner by sadra")
+console.rule("[bold red]Port scanner by sadra")
 
 ip = input("Enter The IP: ")
 List = [80, 443, 445, 21, 23, 22, 3389, 3306]
