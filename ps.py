@@ -33,7 +33,7 @@ try:
 
     t3 = t2 - t1
 
-    console.print(f"The operation was finished at {t3}")
+    console.print(f"The operation is finished at {t3}")
     
     console.rule("[bold red]...")
     
