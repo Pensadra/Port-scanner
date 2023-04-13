@@ -29,13 +29,14 @@ try:
         else:
             console.print(f"port {port}:    close", port, style="bold red")
 
-    console.print("operation complete!", style="blue on white")
-    console.rule("[bold red]...")
     t2 = datetime.now()
 
     t3 = t2 - t1
 
     console.print(f"The operation was finished at {t3}")
+    
+    console.rule("[bold red]...")
+    
 except Exception as e:
     console.print("[!]Error:", e, style="bold red")
 except KeyboardInterrupt:
