@@ -13,9 +13,9 @@ try:
     ip = input("Enter The IP: ")
     List = [80, 443, 445, 21, 23, 22, 3389, 3306]
 
-    console.print("-"*50, style="blue")
+    console.rule("[blue]---")
     console.print(f"|scanning {ip}|", style="blink", justify="center")
-    console.print("-" * 50, style="blue")
+    console.rule("[blue]---")
 
     t1 = datetime.now()
 
