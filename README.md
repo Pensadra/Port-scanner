@@ -2,5 +2,6 @@
 this is a simple port scanner made made with socket and reach library for beautification.
 
 
-![Screenshot from 2023-03-30 22-20-08](https://user-images.githubusercontent.com/73189542/228935301-99f4764c-ac3d-4aad-811e-12aa69fefe0e.png)
+
+![Screenshot from 2023-04-13 15-17-16](https://user-images.githubusercontent.com/73189542/231749615-4ac1cbeb-cf58-45f2-bfb2-2211c415ca6d.png)
 
