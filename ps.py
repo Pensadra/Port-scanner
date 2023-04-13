@@ -27,7 +27,7 @@ try:
             console.print(f"port {port}:    open", style="bold green")
 
         else:
-            console.print(f"port {port}:    close", port, style="bold red")
+            console.print(f"port {port}:    close", style="bold red")
 
     t2 = datetime.now()
 
